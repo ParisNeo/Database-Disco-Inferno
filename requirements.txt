@@ -1,0 +1,4 @@
+# requirements.txt - The elite guest list! 🕺💃
+
+sqlite3         # The Smooth Operator! 🎷
+PyQt5           # The Visual Vibes! 👀
