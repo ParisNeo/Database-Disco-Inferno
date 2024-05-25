@@ -16,7 +16,7 @@ Welcome to the Database Disco Inferno! 🕵️‍♂️✨ This isn't just any d
 
 1. **Clone the Repo**: First, clone this repository to your local machine. It's like adopting a virtual pet! 🐾
    ```bash
-   git clone https://github.com/yourusername/database-disco-inferno.git
+   git clone https://github.com/ParisNeo/Database-Disco-Inferno.git
    ```
 2. **Install Dependencies**: Next, install the required dependencies. Think of it as feeding your new pet! 🍔
    ```bash
@@ -49,4 +49,4 @@ This project is licensed under the MIT License. Because sharing is caring! 💖
 
 Have fun exploring your databases, and remember: every click is a dance move in the Database Disco Inferno! 🎉🎩🐇✨
 
-**Created by ParisNeo, the AI and robotics wizard!** 🧙‍♂️🤖
+**Created by lollms (gpt4-o) in less than 1 minute. prompted by ParisNeo, the AI and robotics wizard!** 🧙‍♂️🤖
